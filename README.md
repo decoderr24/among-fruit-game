@@ -1,6 +1,6 @@
 # Among Fruit Game 🍎🍋🥝
 
-![Banner Game - Contoh Placeholder](![Screenshot 2025-07-05 125000](https://github.com/user-attachments/assets/c29a807b-ae35-41ac-9418-d14b4288ea4e)
+(![Screenshot 2025-07-05 125000](https://github.com/user-attachments/assets/c29a807b-ae35-41ac-9418-d14b4288ea4e)
 )
 *(Ganti placeholder ini dengan screenshot atau logo game Anda!)*
 
