@@ -11,9 +11,8 @@ Among Fruit Game adalah permainan deduksi sosial multiplayer di mana sekelompok 
 **Fitur Utama:**
 * Karakter buah-buahan yang unik dan lucu.
 * Peta-peta yang didesain dengan menarik.
-* Tugas-tugas (tasks) yang bervariasi dan menantang.
-* Sistem diskusi dan pemungutan suara untuk mengusir impostor.
-* Mode multiplayer untuk bermain bersama teman.
+* Rintangan yang siap menhalau para player
+* Bonus menarik yang didapatkan Player.
 
 ## 🚀 Cara Bermain (Jika Sudah Ada Build)
 
