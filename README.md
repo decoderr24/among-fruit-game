@@ -2,7 +2,7 @@
 
 ![Screenshot 2025-07-05 125000](https://github.com/user-attachments/assets/c29a807b-ae35-41ac-9418-d14b4288ea4e)
 
-Selamat datang di repositori untuk **Among Fruit Game**! Sebuah permainan seru dan menantang yang menggabungkan elemen misteri sosial dengan karakter buah-buahan yang menggemaskan. Siapkah Anda mengungkap impostor di antara teman-teman buah Anda?
+Selamat datang di repositori untuk **Among Fruit Game**! Sebuah permainan seru dan menantang yang menggabungkan karakter Among US dengan karakter buah-buahan yang menggemaskan. Siapkah Anda mengungkap impostor di antara teman-teman buah Anda?
 
 ## 🎮 Tentang Permainan
 
