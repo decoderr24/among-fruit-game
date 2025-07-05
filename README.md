@@ -26,7 +26,7 @@ Proyek ini dibangun menggunakan unity engine
 
 1.  **Clone Repository:**
     ```bash
-    git clone [https://github.com/decoderr24/among-fruit-game.git](https://github.com/decoderr24/among-fruit-game.git)
+    git clone https://github.com/decoderr24/among-fruit-game.git
     cd among-fruit-game
     ```
 2.  **Buka Proyek:**
