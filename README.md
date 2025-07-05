@@ -14,19 +14,6 @@ Among Fruit Game adalah permainan deduksi sosial multiplayer di mana sekelompok 
 * Rintangan yang siap menhalau para player
 * Bonus menarik yang didapatkan Player.
 
-## 🚀 Cara Bermain (Jika Sudah Ada Build)
-
-Jika Anda ingin mencoba game ini, ikuti langkah-langkah berikut:
-
-1.  **Unduh Build Terbaru:**
-    * [Link ke rilis terbaru di GitHub Anda](https://github.com/decoderr24/among-fruit-game/releases) (Buatlah "Release" di GitHub Anda setelah game Anda siap untuk dimainkan)
-    * [Link ke unduhan langsung di itch.io / Google Drive, dll. Jika ada]
-
-2.  **Ekstrak File:** Setelah diunduh, ekstrak file zip ke lokasi yang Anda inginkan.
-3.  **Jalankan Game:**
-    * Untuk Windows: Jalankan `AmongFruitGame.exe` (Sesuaikan nama file executable Anda).
-    * Untuk platform lain: (Sertakan instruksi jika Anda membuat build untuk macOS, Linux, Android, dll.)
-
 ## 🛠️ Pengembangan (Untuk Developer)
 
 Proyek ini dibangun menggunakan unity engine
