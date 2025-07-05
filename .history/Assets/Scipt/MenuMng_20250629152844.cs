@@ -1,0 +1,20 @@
+using UnityEngine;
+
+public class MenuMng : MonoBehaviour
+{
+    using UnityEngine;
+
+public class MenuManagement : MonoBehaviour
+{
+    public void PlayGame()
+    {
+        SceneManager.LoadScene(1);
+    }
+    public void ExitGame()
+    {
+        Debug.Log("Exit Game");
+        Application.Quit();
+    }
+}
+
+}
