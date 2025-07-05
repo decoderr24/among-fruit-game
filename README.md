@@ -45,8 +45,6 @@ Kami sangat menyambut kontribusi dari komunitas! Jika Anda tertarik untuk memban
 5.  Dorong ke branch Anda (`git push origin feature/nama-fitur-Anda`).
 6.  Buka Pull Request (PR) ke branch `main` repositori ini.
 
-Mohon baca [CONTRIBUTING.md](CONTRIBUTING.md) (Jika Anda berencana membuatnya) untuk panduan kontribusi yang lebih detail.
-
 ## ✉️ Kontak
 
 Punya pertanyaan atau ingin tahu lebih banyak? Jangan ragu untuk menghubungi:
